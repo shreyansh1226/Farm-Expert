@@ -37,9 +37,9 @@
 - Clone the complete project or you can just download the code and unzip it
 - Once the project is cloned, open anaconda prompt in the directory where the project was cloned and paste the following block
   ```
-  conda create -n ***** python=3.6.12
+  conda create -n farmexpert python=3.6.12
   pip install -r requirements.txt
-  conda activate 
+  conda farmexpert 
   ```
 - And finally run the project with
   ```
